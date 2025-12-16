@@ -1,1 +1,2 @@
-echo "My first git file"
+My first git file
+This line is added in feature branch
